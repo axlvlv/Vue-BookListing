@@ -15,11 +15,8 @@ export default {
 };
 </script>
 
-<style lang="css" scoped>
-h1 {
-  font-weight: normal;
-}
-h2 {
+<style>
+h1, h2{
   font-weight: normal;
 }
 </style>
